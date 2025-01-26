@@ -9,7 +9,7 @@
 * Tags: lws, hosting, affiliate program, affiliation
 * Requires at least: 5.0
 * Requires PHP: 7.0
-* Tested up to: 6.6
+* Tested up to: 6.7
 * Stable tag: 2.3.5
 * License: GPLv2 or later
 *

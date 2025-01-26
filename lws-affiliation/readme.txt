@@ -4,7 +4,7 @@ Author: LWS
 Author URI: https://www.lws.fr
 Tags: LWS, hosting, affiliate program, affiliation, widgets
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 7.0
 Stable tag: 2.3.5
 License: GPLv2 or later
