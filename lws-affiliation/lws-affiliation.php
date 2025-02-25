@@ -3,14 +3,14 @@
 * Plugin Name: LWS Affiliation
 * Plugin URI: https://affiliation.lws-hosting.com
 * Description: Integrate our banners and widgets on your site with our affiliate program !
-* Version: 2.3.5
+* Version: 2.3.6
 * Author: LWS
 * Author URI: https://www.lws.fr
 * Tags: lws, hosting, affiliate program, affiliation
 * Requires at least: 5.0
 * Requires PHP: 7.0
 * Tested up to: 6.7
-* Stable tag: 2.3.5
+* Stable tag: 2.3.6
 * License: GPLv2 or later
 *
 * @package    lws-affiliation
